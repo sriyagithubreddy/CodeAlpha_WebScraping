@@ -72,7 +72,7 @@ CodeAlpha_WebScraping/
 [Your LinkedIn Post Link Here]
 
 🔗 GitHub Repository:
-[Your GitHub Repository Link Here]
+https://github.com/sriyagithubreddy/CodeAlpha_WebScraping
 
 Thanks to @CodeAlpha for this opportunity to enhance my Data Analytics skills! 🚀
 
