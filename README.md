@@ -36,32 +36,20 @@ The final dataset is saved as `books.csv` in the repository.
 1. Clone this repository:
    ```bash
    git clone https://github.com/sriyagithubreddy/CodeAlpha_WebScraping.git
-Navigate into the project directory:
-
-bash
-Copy
-Edit
-cd CodeAlpha_WebScraping
-Install required libraries:
-
-bash
-Copy
-Edit
-pip install requests beautifulsoup4 pandas
-Run the Python script:
-
-bash
-Copy
-Edit
-python web_scraping_books.py
-Check the generated file:
-
-Output: books.csv
+2. Navigate into the project directory:
+   ```bash
+   cd CodeAlpha_WebScraping
+3. Install required libraries:
+   ```bash
+   pip install requests beautifulsoup4 pandas
+4. Run the Python script:
+   ```bash
+   python web_scraping_books.py
+5. Check the generated file:
+   Output: books.csv
 
 📂 Repository Structure:
-bash
-Copy
-Edit
+```bash
 CodeAlpha_WebScraping/
 ├── web_scraping_books.py   # Main Python Script
 ├── books.csv                # Output CSV File
