@@ -66,7 +66,9 @@ CodeAlpha_WebScraping/
 ├── web_scraping_books.py   # Main Python Script
 ├── books.csv                # Output CSV File
 └── README.md                # Project Details
+
 📝 What I Learned:
+
 ✔ Basics of web scraping
 
 ✔ Using BeautifulSoup for HTML parsing
