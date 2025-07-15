@@ -35,7 +35,7 @@ The final dataset is saved as `books.csv` in the repository.
 ## 🚀 How to Run This Project Locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/CodeAlpha_WebScraping.git
+   git clone https://github.com/sriyagithubreddy/CodeAlpha_WebScraping.git
 Navigate into the project directory:
 
 bash
