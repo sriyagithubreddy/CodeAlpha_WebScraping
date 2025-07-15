@@ -5,7 +5,6 @@ import pandas as pd
 titles = []
 prices = []
 
-# Scrape first 5 pages (or you can expand)
 for page in range(1, 6):
     url = f"http://books.toscrape.com/catalogue/page-{page}.html"
     response = requests.get(url)
@@ -19,8 +18,9 @@ for page in range(1, 6):
         titles.append(title)
         prices.append(price)
 
-# Store data in DataFrame
 df = pd.DataFrame({'Title': titles, 'Price': prices})
 df.to_csv('books.csv', index=False)
 
-print("Scraped data saved to books.csv")
+print(df)
+
+print("\n✅ Scraped data saved to books.csv")
