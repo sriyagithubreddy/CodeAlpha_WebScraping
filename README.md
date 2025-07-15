@@ -1,40 +1,73 @@
 # CodeAlpha Web Scraping Project
 
-## Project: Web Scraping Books to Scrape Website
+## 📌 Internship Task: Web Scraping  
 This project is completed as part of the **CodeAlpha Data Analytics Internship.**
 
-### Objective:
-To scrape book titles and prices from http://books.toscrape.com/ using Python.
+---
 
-### Tools & Libraries Used:
+## 🔍 **Objective:**  
+To extract **book titles and prices** from the website [Books to Scrape](http://books.toscrape.com/) using Python and save the results as a `.csv` file.
+
+---
+
+## 🛠️ **Technologies & Tools Used:**
 - Python
-- BeautifulSoup4
-- Requests
-- Pandas
+- Libraries: `requests`, `BeautifulSoup`, `pandas`
 
-### Output:
-The scraped data is stored in `books.csv`, containing the following columns:
-- Book Title
-- Price
+---
 
-### How to Run:
-1. Clone the repository
-2. Run `web_scraping_books.py`
-3. Check `books.csv` for results.
+## 📊 **Dataset Generated (Output):**
+The scraped data includes:
+- **Book Title**
+- **Price**
 
-### Sample Output:
-| Title                           | Price |
-|---------------------------------|-------|
-| A Light in the Attic            | £51.77|
-| Tipping the Velvet              | £53.74|
+The final dataset is saved as `books.csv` in the repository.
 
-### Repository Structure:
+| Title                     | Price  |
+|-----------------------------|--------|
+| A Light in the Attic        | £51.77 |
+| Tipping the Velvet          | £53.74 |
+| Sharp Objects               | £47.82 |
+| ...                         | ...    |
+
+---
+
+## 🚀 **How to Run This Project Locally:**
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/CodeAlpha_WebScraping.git
+   
+2. Navigate into the project directory:
+   cd CodeAlpha_WebScraping
+
+3. Install required libraries:
+   pip install requests beautifulsoup4 pandas
+
+4. Run the Python script:
+   python web_scraping_books.py
+
+5. Check the generated file:
+   Output: books.csv
+
+📂 Repository Structure:
 CodeAlpha_WebScraping/
-├── web_scraping_books.py
-├── books.csv
-└── README.md
+├── web_scraping_books.py   # Main Python Script
+├── books.csv                # Output CSV File
+└── README.md                # Project Details
 
+📝 What I Learned:
+✔ Basics of web scraping
+✔ Using BeautifulSoup for HTML parsing
+✔ Data collection and cleaning
+✔ Saving data using pandas
+✔ Working with .csv files
 
-### Author:
-**Sriya Reddy Pochana**  
-Completed under **CodeAlpha Internship (Data Analytics)**
+🔗 LinkedIn Post:
+[Your LinkedIn Post Link Here]
+
+🔗 GitHub Repository:
+[Your GitHub Repository Link Here]
+
+Thanks to @CodeAlpha for this opportunity to enhance my Data Analytics skills! 🚀
+
+#CodeAlpha #DataAnalytics #WebScraping #Python #Internship #Learning
