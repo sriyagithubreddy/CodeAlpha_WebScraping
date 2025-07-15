@@ -5,34 +5,34 @@ This project is completed as part of the **CodeAlpha Data Analytics Internship.*
 
 ---
 
-## 🔍 **Objective:**  
+## 🔍 Objective:
 To extract **book titles and prices** from the website [Books to Scrape](http://books.toscrape.com/) using Python and save the results as a `.csv` file.
 
 ---
 
-## 🛠️ **Technologies & Tools Used:**
+## 🛠️ Technologies & Tools Used:
 - Python
 - Libraries: `requests`, `BeautifulSoup`, `pandas`
 
 ---
 
-## 📊 **Dataset Generated (Output):**
+## 📊 Dataset Generated (Output):
 The scraped data includes:
 - **Book Title**
 - **Price**
 
 The final dataset is saved as `books.csv` in the repository.
 
-| Title                     | Price  |
-|-----------------------------|--------|
-| A Light in the Attic        | £51.77 |
-| Tipping the Velvet          | £53.74 |
-| Sharp Objects               | £47.82 |
-| ...                         | ...    |
+| Title              | Price  |
+|--------------------|--------|
+| A Light in the Attic | £51.77 |
+| Tipping the Velvet | £53.74 |
+| Sharp Objects      | £47.82 |
+| ...                | ...    |
 
 ---
 
-## 🚀 **How to Run This Project Locally:**
+## 🚀 How to Run This Project Locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/CodeAlpha_WebScraping.git
