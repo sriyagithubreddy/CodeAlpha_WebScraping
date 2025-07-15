@@ -36,30 +36,45 @@ The final dataset is saved as `books.csv` in the repository.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/CodeAlpha_WebScraping.git
-   
-2. Navigate into the project directory:
-   cd CodeAlpha_WebScraping
+Navigate into the project directory:
 
-3. Install required libraries:
-   pip install requests beautifulsoup4 pandas
+bash
+Copy
+Edit
+cd CodeAlpha_WebScraping
+Install required libraries:
 
-4. Run the Python script:
-   python web_scraping_books.py
+bash
+Copy
+Edit
+pip install requests beautifulsoup4 pandas
+Run the Python script:
 
-5. Check the generated file:
-   Output: books.csv
+bash
+Copy
+Edit
+python web_scraping_books.py
+Check the generated file:
+
+Output: books.csv
 
 📂 Repository Structure:
+bash
+Copy
+Edit
 CodeAlpha_WebScraping/
 ├── web_scraping_books.py   # Main Python Script
 ├── books.csv                # Output CSV File
 └── README.md                # Project Details
-
 📝 What I Learned:
 ✔ Basics of web scraping
+
 ✔ Using BeautifulSoup for HTML parsing
+
 ✔ Data collection and cleaning
+
 ✔ Saving data using pandas
+
 ✔ Working with .csv files
 
 🔗 LinkedIn Post:
