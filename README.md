@@ -68,8 +68,6 @@ CodeAlpha_WebScraping/
 
 ✔ Working with .csv files
 
-🔗 LinkedIn Post:
-[Your LinkedIn Post Link Here]
 
 🔗 GitHub Repository:
 https://github.com/sriyagithubreddy/CodeAlpha_WebScraping
